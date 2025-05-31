@@ -49,8 +49,8 @@ Tasarım, içerik ve yönlendirmelerde %100 özgünlük garantilidir.
 ### Sitenizi korumaya almak ve sıralamanızı yükseltmek için:
 
 1. Telegram’a girin 📲  
-2. Bize yazın: @NeedSeo  
-3. Kahvenizi alın ☕  
+2. Bize yazın: [@NeedSeo](https://t.me/NeedSeo) 
+3. Kahvenizi alın ☕️  
 4. Biz çalışırken siz kazanın 💸
 
 ---
